@@ -1,0 +1,12 @@
+c:\Users\Kvaka\documents\visual studio 2015\Projects\Cars\Cars.DAL\bin\Debug\Cars.DAL.dll.config
+c:\Users\Kvaka\documents\visual studio 2015\Projects\Cars\Cars.DAL\bin\Debug\Cars.DAL.dll
+c:\Users\Kvaka\documents\visual studio 2015\Projects\Cars\Cars.DAL\bin\Debug\Cars.DAL.pdb
+c:\Users\Kvaka\documents\visual studio 2015\Projects\Cars\Cars.DAL\bin\Debug\EntityFramework.dll
+c:\Users\Kvaka\documents\visual studio 2015\Projects\Cars\Cars.DAL\bin\Debug\EntityFramework.SqlServer.dll
+c:\Users\Kvaka\documents\visual studio 2015\Projects\Cars\Cars.DAL\bin\Debug\EntityFramework.xml
+c:\Users\Kvaka\documents\visual studio 2015\Projects\Cars\Cars.DAL\bin\Debug\EntityFramework.SqlServer.xml
+c:\Users\Kvaka\documents\visual studio 2015\Projects\Cars\Cars.DAL\bin\Debug\ru\EntityFramework.resources.dll
+c:\Users\Kvaka\documents\visual studio 2015\Projects\Cars\Cars.DAL\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+c:\Users\Kvaka\documents\visual studio 2015\Projects\Cars\Cars.DAL\obj\Debug\Auto.DAL.csprojResolveAssemblyReference.cache
+c:\Users\Kvaka\documents\visual studio 2015\Projects\Cars\Cars.DAL\obj\Debug\Cars.DAL.dll
+c:\Users\Kvaka\documents\visual studio 2015\Projects\Cars\Cars.DAL\obj\Debug\Cars.DAL.pdb

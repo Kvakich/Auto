@@ -1,0 +1,25 @@
+﻿@using Cars.Models
+
+@model List<CarViewModel>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>#</th>
+            <th>Name</th>
+            <th>Price</th>
+            <th>Country</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var car in Model)
+        {
+            <tr>
+                <th scope="row">1</th>
+                <td>@car.Name</td>
+                <td>@car.Price</td>
+                <td>@car.Country</td>
+            </tr>
+        }
+    </tbody>
+</table>

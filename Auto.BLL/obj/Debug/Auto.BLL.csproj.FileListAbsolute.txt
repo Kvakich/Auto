@@ -1,0 +1,14 @@
+c:\Users\Kvaka\documents\visual studio 2015\Projects\Cars\Auto.BLL\bin\Debug\Auto.BLL.dll
+c:\Users\Kvaka\documents\visual studio 2015\Projects\Cars\Auto.BLL\bin\Debug\Auto.BLL.pdb
+c:\Users\Kvaka\documents\visual studio 2015\Projects\Cars\Auto.BLL\bin\Debug\AutoMapper.dll
+c:\Users\Kvaka\documents\visual studio 2015\Projects\Cars\Auto.BLL\bin\Debug\Cars.DAL.dll
+c:\Users\Kvaka\documents\visual studio 2015\Projects\Cars\Auto.BLL\bin\Debug\Ninject.dll
+c:\Users\Kvaka\documents\visual studio 2015\Projects\Cars\Auto.BLL\bin\Debug\EntityFramework.dll
+c:\Users\Kvaka\documents\visual studio 2015\Projects\Cars\Auto.BLL\bin\Debug\Cars.DAL.pdb
+c:\Users\Kvaka\documents\visual studio 2015\Projects\Cars\Auto.BLL\bin\Debug\AutoMapper.xml
+c:\Users\Kvaka\documents\visual studio 2015\Projects\Cars\Auto.BLL\bin\Debug\Ninject.xml
+c:\Users\Kvaka\documents\visual studio 2015\Projects\Cars\Auto.BLL\bin\Debug\EntityFramework.xml
+c:\Users\Kvaka\documents\visual studio 2015\Projects\Cars\Auto.BLL\bin\Debug\ru\EntityFramework.resources.dll
+c:\Users\Kvaka\documents\visual studio 2015\Projects\Cars\Auto.BLL\obj\Debug\Auto.BLL.csprojResolveAssemblyReference.cache
+c:\Users\Kvaka\documents\visual studio 2015\Projects\Cars\Auto.BLL\obj\Debug\Auto.BLL.dll
+c:\Users\Kvaka\documents\visual studio 2015\Projects\Cars\Auto.BLL\obj\Debug\Auto.BLL.pdb
